@@ -1,6 +1,6 @@
-** Hadoop installation **
+# Hadoop installation
 
-Note that SSH should already be configured!
+**Note that SSH should already be configured!**
 
 Download the materials from yandex drive.
 Originally https://yadi.sk/d/GY4z6jf8loOmvg
