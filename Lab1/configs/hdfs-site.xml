@@ -23,7 +23,7 @@
 	</property>
 	<property>
 		<name>dfs.namenode.name.dir</name>
-		<value>file:/home/kupihleba/mydata/namenode</value>
+		<value>file:/home/MY_USERNAME/mydata/namenode</value>
 	</property>
 	<property>
 		<name>dfs.datanode.data.dir</name>
